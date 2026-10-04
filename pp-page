@@ -1,0 +1,64 @@
+# Privacy Policy for ColorNotes
+
+**Effective date:** October 4, 2026  
+**Last updated:** October 4, 2026
+
+ColorNotes (the “App”) is an offline note-taking application. This Privacy Policy explains what information the App handles and how it is used.
+
+## Summary
+
+ColorNotes does not collect, transmit, sell, or share personal information. Notes and app settings remain in the App’s local storage on your device. The App has no user accounts, advertising, analytics, or cloud synchronization.
+
+## Information the App handles
+
+When you use ColorNotes, you may enter note titles and note content. The App also creates note identifiers and timestamps so it can save, sort, and display your notes. Your selected light/dark/system theme is saved as an app setting.
+
+This information is stored locally on your device using the platform’s app storage through `@react-native-async-storage/async-storage`. It is used only to provide the App’s note-taking and settings features.
+
+The App does not send this information to the developer or to any third party.
+
+## Information the App does not collect
+
+The App does not collect or use:
+
+- names, email addresses, phone numbers, or account information;
+- contacts, photos, files, precise location, microphone, camera, or health data;
+- advertising identifiers or other device identifiers for tracking;
+- usage analytics, crash reports, or diagnostic data; or
+- note content or other personal information through a server.
+
+## Network access and third parties
+
+ColorNotes is designed to work fully offline. It does not include advertising networks, analytics services, crash-reporting services, social sign-in, or cloud storage. The App does not make network requests as part of its features.
+
+The Google Play Store and your device operating system may independently process information when you download, install, update, or use an app. Those services are controlled by their respective providers and are governed by their own privacy policies; ColorNotes does not receive the information they process.
+
+## Permissions
+
+ColorNotes does not request access to contacts, camera, microphone, location, calendar, phone, messages, health sensors, or external storage. The App uses only its normal private application storage.
+
+## Retention and deletion
+
+Your notes and settings remain in local app storage until you edit or delete them, clear the App’s data, or uninstall the App. You can delete individual notes from within the App. Uninstalling the App normally removes its local data, subject to any backup or restore features provided by your device or operating-system provider.
+
+ColorNotes has no copy of your notes and therefore cannot retrieve or delete them remotely.
+
+## Security
+
+The App stores data in its private application storage and relies on the security controls provided by your device’s operating system. Because the App has no server or online account, there is no ColorNotes database or network transmission to secure. You should protect your device with a screen lock and keep your operating system up to date.
+
+## Children’s privacy
+
+ColorNotes does not knowingly collect personal information from anyone, including children. Because the App has no accounts, advertising, or online data collection, it can be used without providing personal information.
+
+## Changes to this policy
+
+If the App’s data practices change, this policy will be updated before or when the change is introduced. The “Last updated” date above indicates when this policy was most recently revised. The current version will be published at the same URL as this document.
+
+## Contact
+
+For questions about this Privacy Policy or ColorNotes’ privacy practices, contact:
+
+**Email:** `REPLACE-WITH-YOUR-REAL-EMAIL@example.com`
+
+Replace the placeholder email address above before publishing this policy.
